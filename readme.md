@@ -41,7 +41,7 @@ An example of using the "XYEmulator" program is directly in the main program:
 
 Simulator / emulator could serve as a virtual periferal device for [Altirra](https://virtualdub.org/altirra.html "Altirra") Atari 8 bit emulator, or perhaps also for [ATARI800](https://atari800.github.io) emulator. 
 
-In case of Altirra it would need either port simulator/emulator into Python, or rewrite Altirra programs "deviceserver.py" and "printer.py" in Altirra "Extras" directory to processing language.
+In case of Altirra it would need either port simulator/emulator into Python, or rewrite Altirra programs "deviceserver.py" and "printer.py" in Altirra "Extras" directory to Processing language.
 
 Atari800 emulator could be connected using "R:" device mapped to net.
 
