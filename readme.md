@@ -1,6 +1,6 @@
 # Plotter simulator/emulator
 
-During the attempts to control the [XY4150](https://blog.3b2.sk/igi/post/Plotter-XY4140-XY4150.aspx "XY4150 plotter") plotter  with [Arduino](https://www.arduino.cc "Arduino") microcontroller board - ["see here"] -  (https://github.com/georger420/ARDUINO-XY4150), it became necessary to have a tool that would be used to debug programs before uploading them to Arduino. It was the reason of creating plotter simulator. As a programming environment the [Processing](https://processing.org "processing") was chosen because the language is similar to Arduino Wiring language.
+During the attempts to control the [XY4150](https://blog.3b2.sk/igi/post/Plotter-XY4140-XY4150.aspx "XY4150 plotter") plotter  with [Arduino](https://www.arduino.cc "Arduino") microcontroller board - ["see here"](https://github.com/georger420/ARDUINO-XY4150 "see here") -  , it became necessary to have a tool that would be used to debug programs before uploading them to Arduino. It was the reason of creating plotter simulator. As a programming environment the [Processing](https://processing.org "processing") was chosen because the language is similar to Arduino Wiring language.
 
 There are two versions: "XYSimulator" and "XYEmulator". Both serves to intended purposes, but are still in intermediate status.
 
